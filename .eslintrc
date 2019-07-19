@@ -55,7 +55,8 @@
     "padded-blocks": "off",
     "react/no-typos": "off",
     "no-underscore-dangle": "warn",
-    "react/prop-types": ["error", { "ignore": ["componentId"] }]
+    "react/prop-types": ["error", { "ignore": ["componentId"] }],
+    "linebreak-style": ["error", "windows"]
   },
   "parserOptions": {
     "ecmaFeatures": {
